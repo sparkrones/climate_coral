@@ -1,4 +1,4 @@
-# Coral Cover Transition: Great Barrier Reef (1980–2070)
+# Coral Cover Transition under Climate Change: Great Barrier Reef (1980–2070)
 
 A creative data visualization built with p5.js that simulates the transition of coral cover in the Great Barrier Reef across three different emission scenarios (**RCP2.6**, **RCP4.5**, and **RCP8.5**).
 
