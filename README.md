@@ -1,6 +1,6 @@
 # Coral Cover Transition: Great Barrier Reef (1980–2070)
 
-A creative data visualization built with **p5.js** that simulates the transition of coral cover in the Great Barrier Reef across three different emission scenarios (**RCP2.6**, **RCP4.5**, and **RCP8.5**).
+A creative data visualization built with p5.js that simulates the transition of coral cover in the Great Barrier Reef across three different emission scenarios (**RCP2.6**, **RCP4.5**, and **RCP8.5**).
 
 ## 🌊 Project Overview
 This project visualizes how climate change impacts coral reef ecosystems over a 90-year span. By translating complex environmental data into a generative art piece, it highlights the fragile balance of marine life.
@@ -21,4 +21,4 @@ The visualization is grounded in evidence-based data from the following study:
 
 ## 🚀 Live Demo
 You can view the interactive visualization here:
-**[https://sparkrones.github.io/climate_coral/]**
+[https://sparkrones.github.io/climate_coral/](https://sparkrones.github.io/climate_coral/)
