@@ -27,13 +27,13 @@ let spacingX, imageWidth, imageHeight, startX, startY, yoffset, coverChange;
 let rcp26_dat, rcp45_dat, rcp85_dat;
 function preload() {
   // corals (branching reefs & mounding reefs)
-  branch = loadImage('branching.png');
-  mound = loadImage('mounding.png');
+  branch = loadImage('assets/branching.png');
+  mound = loadImage('assets/mounding.png');
   
   // rcp scenarios
-  rcp26_dat = loadTable('rcp26.csv', 'csv', 'header');
-  rcp45_dat = loadTable('rcp45.csv', 'csv', 'header');
-  rcp85_dat = loadTable('rcp85.csv', 'csv', 'header');
+  rcp26_dat = loadTable('rcp/rcp26.csv', 'csv', 'header');
+  rcp45_dat = loadTable('rcp/rcp45.csv', 'csv', 'header');
+  rcp85_dat = loadTable('rcp/rcp85.csv', 'csv', 'header');
 }
 
 
